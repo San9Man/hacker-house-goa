@@ -8,10 +8,3 @@
   }
 }
 {
-  "name": "hacker-house-goa-generator",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "formidable": "^3.5.2"
-  }
-}
